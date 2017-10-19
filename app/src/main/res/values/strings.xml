@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExchangeRate</string>
+    <string name="main_logo_name">환율 박사</string>
+    <string name="main_start_btn">시작하기</string>
+    <string name="doit_title_tv">달러를 입력하세요.</string>
+    <string name="doit_exchange_btn">입력</string>
+</resources>
